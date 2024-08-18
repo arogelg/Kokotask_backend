@@ -2,12 +2,13 @@
   "name": "kokotask_backend",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/server.js",
+  "main": "index.js",
   "scripts": {
     "dev": "nodemon --exec ts-node src/index.ts",
     "dev:api": "nodemon --exec ts-node src/index.ts --api",
-    "start": "node dist/server.js",
-    "build": "tsc"
+    "start": "node dist/index.js",
+    "build": "tsc",
+    "postinstall": "npm rebuild bcrypt"
   },
   "keywords": [],
   "author": "",
