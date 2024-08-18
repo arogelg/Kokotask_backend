@@ -1,0 +1,8 @@
+mongodb+srv://alexrogelgarcia:g%3B%5BGwgKyNMT%24r%2BCz4%25kf@cluster0.z2v8y9b.mongodb.net/
+
+mongodb+srv://alexrogelgarcia:g%3B%5BGwgKyNMT%24r%2BCz4%25kf@cluster0.z2v8y9b.mongodb.net/
+
+mongodb+srv://alexrogelgarcia:g;[GwgKyNMT$r+Cz4%kf@cluster0.z2v8y9b.mongodb.net/
+
+
+MongoDB conectado en: ac-lpfldgk-shard-00-01.z2v8y9b.mongodb.net:27017
