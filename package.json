@@ -2,11 +2,12 @@
   "name": "kokotask_backend",
   "version": "1.0.0",
   "description": "",
+  "main": "dist/server.js",
   "scripts": {
     "dev": "nodemon --exec ts-node src/index.ts",
     "dev:api": "nodemon --exec ts-node src/index.ts --api",
-    "build": "tsc",
-    "start": "node dist/server.js"
+    "start": "node dist/server.js",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
